@@ -1,0 +1,11 @@
+[2017.09.29 11:53:55.157]fopen dial.log failed
+[2017.09.29 11:53:55.157]fopen dial.log failed
+[2017-09-29 15:23:17]src/config.cpp config_init 105 : dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-09-29 15:43:14]-[src/config.cpp config_init 105] : dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-09-29 16:04:47]: dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-10-13 17:11:33]: dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-10-13 17:11:33]: dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-10-13 18:47:24]: dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-10-13 18:47:24]: dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-10-17 17:56:03]: dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
+[2017-10-17 17:56:03]: dial_port = 9092,agent_port = 9096,agent_ip = 127.0.0.1
